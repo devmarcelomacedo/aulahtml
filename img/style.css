@@ -1,0 +1,39 @@
+body {
+    background-color: aquamarine;
+}
+div#d1 {
+    
+    display: inline-block;
+    text-align: center;
+    border: 0px;
+    height: 200px;
+    width: 200px;
+}
+div#d2 {
+    padding: 25px;
+    margin: 0;
+    display: inline-block;
+    text-align: center;
+    border: 0px;
+    height: 200px;
+    width: 200px;
+}
+div#d3 {
+    
+    display: inline-block;
+    text-align: center;
+    border: 0px;
+    height: 200px;
+    width: 200px;
+} 
+#amo {
+    border-radius: 50%;
+}
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    color: rgb(0, 110, 255);
+}
+h2 {
+    text-align: center;
+}
